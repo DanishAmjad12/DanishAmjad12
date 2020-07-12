@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Danish Amjad
+
+I'm a Senior Software Engineer working on Android, a technial writer on medium.com.
+
 
 <!--
 **DanishAmjad12/DanishAmjad12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
