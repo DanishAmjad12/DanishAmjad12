@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Danish Amjad
 
-I'm a Senior Software Engineer working on Android, a technial writer on medium.com.
+I'm a Senior Software Engineer working on Android, a technial writer on [medium.com](https://medium.com/@DaniAmjad)
 
 My personal website is at [danishamjad.com](https://www.danishamjad.com), where you'll find my blogs.
 
