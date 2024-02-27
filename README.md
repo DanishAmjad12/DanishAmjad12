@@ -2,7 +2,7 @@
 
 I'm a Senior Software Engineer working on Android, a technial writer on [medium.com](https://medium.com/@DaniAmjad)
 
-My personal website is at [danishamjad.com](https://danishamjad12.github.io/danishamjad/), where you'll find my blogs.
+My personal website is at [danishamjad.com](https://danishamjad12.github.io), where you'll find my blogs.
 
 You can also find me on [YouTube](https://www.youtube.com/channel/UC06GphxCS1gzZhdT9dn6kQA?view_as=subscriber)
 
